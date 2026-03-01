@@ -1,14 +1,21 @@
-# Cars Dealership Full-Stack Application
-**Repository Name:** cars-dealership
+# Fullstack Developer Capstone
 
-This is a full-stack web application for Cars Dealership, a national car retailer in the U.S.
-Users can view dealership branches, see car details, and submit reviews.
+**Repository Name:** xrwvm-fullstack_developer_capstone
+
+## Project Description
+This project is a Fullstack Developer Capstone for a Cars Dealership application. Users can view dealership branches, submit reviews, and see sentiment analysis for reviews.
 
 ## Technologies Used
-- Frontend: React
-- Backend: Django / Flask / Node.js
-- Database: MongoDB / SQLite
+- Frontend: React, HTML, CSS, JavaScript
+- Backend: Django, Flask, Node.js
+- Databases: MongoDB, SQLite
 - Deployment: Docker, Kubernetes, IBM Cloud Code Engine
+- Version Control: Git & GitHub
+- CI/CD: GitHub Actions
 
-## Author
-Aswani K. B.
+## Features
+- Display dealers and their details
+- User authentication: login, logout, register
+- Post and view reviews
+- Sentiment analysis of reviews
+- Responsive UI design
